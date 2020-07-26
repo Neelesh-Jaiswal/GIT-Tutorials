@@ -1,1 +1,2 @@
-utility functions for version 3.
+utility functions for version 6.
+changed from 3 to 6.
